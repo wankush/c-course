@@ -1,0 +1,10 @@
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\bin\Debug\bunifu.exe.config
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\bin\Debug\bunifu.exe
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\bin\Debug\bunifu.pdb
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\obj\Debug\bunifu.csprojResolveAssemblyReference.cache
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\obj\Debug\bunifu.Form1.resources
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\obj\Debug\bunifu.Properties.Resources.resources
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\obj\Debug\bunifu.csproj.GenerateResource.Cache
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\obj\Debug\bunifu.exe
+c:\users\ankush\documents\visual studio 2015\Projects\bunifu\bunifu\obj\Debug\bunifu.pdb
